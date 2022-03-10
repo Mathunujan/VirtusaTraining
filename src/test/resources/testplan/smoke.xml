@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Hubspot App Sanity Test Suite" thread-count="4" parallel="methods">
+    <listeners>
+        <listener class-name="utils.ExtentReportListener" />
+    </listeners>
+
+
+    <test name="test" verbose="2">
+<!--        <groups>-->
+<!--            <run>-->
+<!--                <include name = "test"></include>-->
+<!--                <include name = "regression"></include>-->
+<!--                <include name = "smoke"></include>-->
+<!--            </run>-->
+<!--        </groups>-->
+
+
+        <groups>
+            <run>
+                <include name = "test"></include>
+                
+            </run>
+        </groups>
+        <classes>
+            <class name="virtusa.guest.HomePageTest" />
+           
+        </classes>
+
+    </test>
+
+    
+
+
+</suite>
