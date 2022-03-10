@@ -1,0 +1,225 @@
+2022-03-10 11:22:08 INFO  TestBase:26 - Initiate Browser
+2022-03-10 11:22:25 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 11:22:25 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 11:22:25 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 11:22:25 INFO  TestBase:33 - Browser Initiated
+2022-03-10 11:22:25 INFO  TestBase:40 - Login Started!
+2022-03-10 11:22:35 INFO  TestBase:56 - Test name: searchTest
+2022-03-10 11:22:35 INFO  TestBase:72 - Executed test case name:searchTest Execution Results : [TestResult name={null} status=CREATED method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@53f65459] output={null}]
+2022-03-10 11:22:35 INFO  TestBase:64 - Closing Browser
+2022-03-10 11:22:38 INFO  TestBase:66 - Browser Closed
+2022-03-10 11:48:45 INFO  TestBase:27 - Initiate Browser
+2022-03-10 11:48:55 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 11:48:55 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 11:48:55 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 11:48:55 INFO  TestBase:34 - Browser Initiated
+2022-03-10 11:48:55 INFO  TestBase:44 - Dashboard here!
+2022-03-10 11:48:55 INFO  TestBase:55 - Test name: searchTest
+2022-03-10 11:48:55 INFO  TestBase:71 - Executed test case name:searchTest Execution Results : [TestResult name={null} status=CREATED method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@1786dec2] output={null}]
+2022-03-10 11:48:55 INFO  TestBase:63 - Closing Browser
+2022-03-10 11:48:57 INFO  TestBase:65 - Browser Closed
+2022-03-10 11:51:02 INFO  TestBase:27 - Initiate Browser
+2022-03-10 11:51:11 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 11:51:11 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 11:51:11 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 11:51:11 INFO  TestBase:34 - Browser Initiated
+2022-03-10 11:51:11 INFO  TestBase:44 - Dashboard here!
+2022-03-10 11:51:11 INFO  TestBase:55 - Test name: searchTest
+2022-03-10 11:51:11 INFO  TestBase:71 - Executed test case name:searchTest Execution Results : [TestResult name={null} status=CREATED method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@1786dec2] output={null}]
+2022-03-10 11:51:11 INFO  TestBase:63 - Closing Browser
+2022-03-10 11:51:14 INFO  TestBase:65 - Browser Closed
+2022-03-10 11:55:04 INFO  TestBase:27 - Initiate Browser
+2022-03-10 11:55:13 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 11:55:13 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 11:55:13 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 11:55:13 INFO  TestBase:34 - Browser Initiated
+2022-03-10 11:55:13 INFO  TestBase:44 - Dashboard here!
+2022-03-10 11:55:13 INFO  TestBase:55 - Test name: searchTest
+2022-03-10 11:55:13 INFO  TestBase:71 - Executed test case name:searchTest Execution Results : [TestResult name={null} status=CREATED method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@1786dec2] output={null}]
+2022-03-10 11:55:13 INFO  TestBase:63 - Closing Browser
+2022-03-10 11:55:15 INFO  TestBase:65 - Browser Closed
+2022-03-10 11:56:03 INFO  TestBase:27 - Initiate Browser
+2022-03-10 11:56:13 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 11:56:13 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 11:56:13 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 11:56:13 INFO  TestBase:34 - Browser Initiated
+2022-03-10 11:56:13 INFO  TestBase:44 - Dashboard here!
+2022-03-10 11:56:13 INFO  TestBase:55 - Test name: searchTest
+2022-03-10 11:56:13 INFO  TestBase:71 - Executed test case name:searchTest Execution Results : [TestResult name={null} status=CREATED method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@1786dec2] output={null}]
+2022-03-10 11:56:13 INFO  TestBase:63 - Closing Browser
+2022-03-10 11:56:15 INFO  TestBase:65 - Browser Closed
+2022-03-10 11:56:44 INFO  TestBase:27 - Initiate Browser
+2022-03-10 11:56:54 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 11:56:54 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 11:56:54 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 11:56:54 INFO  TestBase:34 - Browser Initiated
+2022-03-10 11:56:54 INFO  TestBase:44 - Dashboard here!
+2022-03-10 11:56:54 INFO  TestBase:55 - Test name: searchTest
+2022-03-10 11:56:54 INFO  TestBase:71 - Executed test case name:searchTest Execution Results : [TestResult name={null} status=CREATED method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@53f65459] output={null}]
+2022-03-10 11:56:54 INFO  TestBase:63 - Closing Browser
+2022-03-10 11:56:56 INFO  TestBase:65 - Browser Closed
+2022-03-10 11:57:18 INFO  TestBase:27 - Initiate Browser
+2022-03-10 11:57:27 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 11:57:27 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 11:57:27 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 11:57:27 INFO  TestBase:34 - Browser Initiated
+2022-03-10 11:57:27 INFO  TestBase:44 - Dashboard here!
+2022-03-10 11:57:27 INFO  TestBase:55 - Test name: searchTest
+2022-03-10 11:57:27 INFO  TestBase:71 - Executed test case name:searchTest Execution Results : [TestResult name={null} status=CREATED method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@1786dec2] output={null}]
+2022-03-10 11:57:27 INFO  TestBase:63 - Closing Browser
+2022-03-10 11:57:29 INFO  TestBase:65 - Browser Closed
+2022-03-10 12:01:12 INFO  TestBase:27 - Initiate Browser
+2022-03-10 12:01:22 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 12:01:22 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 12:01:22 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 12:01:22 INFO  TestBase:34 - Browser Initiated
+2022-03-10 12:01:22 INFO  TestBase:56 - Test name: searchTest
+2022-03-10 12:01:22 INFO  TestBase:72 - Executed test case name:searchTest Execution Results : [TestResult name={null} status=CREATED method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@1786dec2] output={null}]
+2022-03-10 12:01:22 INFO  TestBase:64 - Closing Browser
+2022-03-10 12:01:25 INFO  TestBase:66 - Browser Closed
+2022-03-10 12:02:43 INFO  TestBase:28 - Initiate Browser
+2022-03-10 12:02:52 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 12:02:52 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 12:02:52 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 12:02:52 INFO  TestBase:35 - Browser Initiated
+2022-03-10 12:02:52 INFO  TestBase:57 - Test name: searchTest
+2022-03-10 12:02:52 INFO  TestBase:73 - Executed test case name:searchTest Execution Results : [TestResult name={null} status=CREATED method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@1786dec2] output={null}]
+2022-03-10 12:02:52 INFO  TestBase:65 - Closing Browser
+2022-03-10 12:02:55 INFO  TestBase:67 - Browser Closed
+2022-03-10 12:05:13 INFO  TestBase:28 - Initiate Browser
+2022-03-10 12:05:23 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 12:05:23 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 12:05:23 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 12:05:23 INFO  TestBase:35 - Browser Initiated
+2022-03-10 12:05:23 INFO  TestBase:57 - Test name: searchTest
+2022-03-10 12:05:23 INFO  TestBase:73 - Executed test case name:searchTest Execution Results : [TestResult name={null} status=CREATED method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@1786dec2] output={null}]
+2022-03-10 12:05:23 INFO  TestBase:65 - Closing Browser
+2022-03-10 12:05:25 INFO  TestBase:67 - Browser Closed
+2022-03-10 12:09:23 INFO  TestBase:28 - Initiate Browser
+2022-03-10 12:09:33 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 12:09:33 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 12:09:33 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 12:09:33 INFO  TestBase:35 - Browser Initiated
+2022-03-10 12:09:33 INFO  TestBase:57 - Test name: searchTest
+2022-03-10 12:09:33 INFO  TestBase:73 - Executed test case name:searchTest Execution Results : [TestResult name={null} status=CREATED method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@1786dec2] output={null}]
+2022-03-10 12:09:33 INFO  TestBase:65 - Closing Browser
+2022-03-10 12:09:35 INFO  TestBase:67 - Browser Closed
+2022-03-10 12:10:58 INFO  TestBase:28 - Initiate Browser
+2022-03-10 12:11:08 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 12:11:08 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 12:11:08 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 12:11:08 INFO  TestBase:35 - Browser Initiated
+2022-03-10 12:11:08 INFO  TestBase:57 - Test name: searchTest
+2022-03-10 12:11:08 INFO  TestBase:73 - Executed test case name:searchTest Execution Results : [TestResult name={null} status=CREATED method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@1786dec2] output={null}]
+2022-03-10 12:11:08 INFO  TestBase:65 - Closing Browser
+2022-03-10 12:11:10 INFO  TestBase:67 - Browser Closed
+2022-03-10 12:13:11 INFO  TestBase:28 - Initiate Browser
+2022-03-10 12:13:21 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 12:13:21 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 12:13:21 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 12:13:21 INFO  TestBase:35 - Browser Initiated
+2022-03-10 12:13:21 INFO  TestBase:57 - Test name: searchTest
+2022-03-10 12:13:31 INFO  TestBase:73 - Executed test case name:searchTest Execution Results : [TestResult name=searchTest status=FAILURE method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@1786dec2] output={null}]
+2022-03-10 12:13:31 INFO  TestBase:77 - Stop Testcase
+2022-03-10 12:13:31 INFO  TestBase:65 - Closing Browser
+2022-03-10 12:13:33 INFO  TestBase:67 - Browser Closed
+2022-03-10 12:17:07 INFO  TestBase:28 - Initiate Browser
+2022-03-10 12:17:16 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 12:17:16 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 12:17:16 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 12:17:16 INFO  TestBase:35 - Browser Initiated
+2022-03-10 12:17:16 INFO  TestBase:57 - Test name: searchTest
+2022-03-10 12:17:27 INFO  TestBase:73 - Executed test case name:searchTest Execution Results : [TestResult name=searchTest status=FAILURE method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@53f65459] output={null}]
+2022-03-10 12:17:27 INFO  TestBase:77 - Stop Testcase
+2022-03-10 12:17:27 INFO  TestBase:65 - Closing Browser
+2022-03-10 12:17:29 INFO  TestBase:67 - Browser Closed
+2022-03-10 12:19:45 INFO  TestBase:28 - Initiate Browser
+2022-03-10 12:19:54 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 12:19:54 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 12:19:54 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 12:19:54 INFO  TestBase:35 - Browser Initiated
+2022-03-10 12:19:54 INFO  TestBase:57 - Test name: searchTest
+2022-03-10 12:20:04 INFO  TestBase:73 - Executed test case name:searchTest Execution Results : [TestResult name=searchTest status=FAILURE method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@1786dec2] output={null}]
+2022-03-10 12:20:04 INFO  TestBase:77 - Stop Testcase
+2022-03-10 12:20:04 INFO  TestBase:65 - Closing Browser
+2022-03-10 12:20:07 INFO  TestBase:67 - Browser Closed
+2022-03-10 12:50:37 INFO  TestBase:28 - Initiate Browser
+2022-03-10 12:50:46 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 12:50:46 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 12:50:46 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 12:50:46 INFO  TestBase:35 - Browser Initiated
+2022-03-10 12:50:46 INFO  TestBase:57 - Test name: searchTest
+2022-03-10 12:50:57 INFO  TestBase:73 - Executed test case name:searchTest Execution Results : [TestResult name=searchTest status=FAILURE method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@53f65459] output={null}]
+2022-03-10 12:50:57 INFO  TestBase:77 - Stop Testcase
+2022-03-10 12:50:57 INFO  TestBase:65 - Closing Browser
+2022-03-10 12:50:59 INFO  TestBase:67 - Browser Closed
+2022-03-10 12:59:08 INFO  TestBase:28 - Initiate Browser
+2022-03-10 12:59:17 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 12:59:17 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 12:59:17 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 12:59:17 INFO  TestBase:35 - Browser Initiated
+2022-03-10 12:59:17 INFO  TestBase:57 - Test name: searchTest
+2022-03-10 12:59:27 INFO  TestBase:73 - Executed test case name:searchTest Execution Results : [TestResult name=searchTest status=FAILURE method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@74650e52] output={null}]
+2022-03-10 12:59:27 INFO  TestBase:77 - Stop Testcase
+2022-03-10 12:59:27 INFO  TestBase:65 - Closing Browser
+2022-03-10 12:59:30 INFO  TestBase:67 - Browser Closed
+2022-03-10 13:01:18 INFO  TestBase:28 - Initiate Browser
+2022-03-10 13:01:27 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 13:01:27 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 13:01:27 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 13:01:27 INFO  TestBase:35 - Browser Initiated
+2022-03-10 13:01:27 INFO  TestBase:57 - Test name: searchTest
+2022-03-10 13:01:37 INFO  TestBase:73 - Executed test case name:searchTest Execution Results : [TestResult name=searchTest status=FAILURE method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@1786dec2] output={null}]
+2022-03-10 13:01:37 INFO  TestBase:77 - Stop Testcase
+2022-03-10 13:01:37 INFO  TestBase:65 - Closing Browser
+2022-03-10 13:01:40 INFO  TestBase:67 - Browser Closed
+2022-03-10 13:03:35 INFO  TestBase:28 - Initiate Browser
+2022-03-10 13:03:44 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 13:03:44 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 13:03:44 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 13:03:44 INFO  TestBase:35 - Browser Initiated
+2022-03-10 13:03:44 INFO  TestBase:57 - Test name: searchTest
+2022-03-10 13:03:54 INFO  TestBase:73 - Executed test case name:searchTest Execution Results : [TestResult name=searchTest status=FAILURE method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@1786dec2] output={null}]
+2022-03-10 13:03:54 INFO  TestBase:77 - Stop Testcase
+2022-03-10 13:03:54 INFO  TestBase:65 - Closing Browser
+2022-03-10 13:03:57 INFO  TestBase:67 - Browser Closed
+2022-03-10 13:25:54 INFO  TestBase:28 - Initiate Browser
+2022-03-10 13:26:03 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 13:26:03 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 13:26:03 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 13:26:03 INFO  TestBase:35 - Browser Initiated
+2022-03-10 13:26:03 INFO  TestBase:57 - Test name: searchTest
+2022-03-10 13:26:05 INFO  TestBase:73 - Executed test case name:searchTest Execution Results : [TestResult name=searchTest status=SUCCESS method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@1786dec2] output={null}]
+2022-03-10 13:26:05 INFO  TestBase:77 - Stop Testcase
+2022-03-10 13:26:05 INFO  TestBase:65 - Closing Browser
+2022-03-10 13:26:07 INFO  TestBase:67 - Browser Closed
+2022-03-10 13:35:40 INFO  TestBase:28 - Initiate Browser
+2022-03-10 13:35:50 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 13:35:50 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 13:35:50 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 13:35:50 INFO  TestBase:35 - Browser Initiated
+2022-03-10 13:35:50 INFO  TestBase:57 - Test name: searchTest
+2022-03-10 13:35:52 INFO  TestBase:73 - Executed test case name:searchTest Execution Results : [TestResult name=searchTest status=SUCCESS method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@1786dec2] output={null}]
+2022-03-10 13:35:52 INFO  TestBase:77 - Stop Testcase
+2022-03-10 13:35:52 INFO  TestBase:65 - Closing Browser
+2022-03-10 13:35:54 INFO  TestBase:67 - Browser Closed
+2022-03-10 13:38:05 INFO  TestBase:28 - Initiate Browser
+2022-03-10 13:38:14 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 13:38:14 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 13:38:14 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 13:38:14 INFO  TestBase:35 - Browser Initiated
+2022-03-10 13:38:14 INFO  TestBase:57 - Test name: searchTest
+2022-03-10 13:38:16 INFO  TestBase:73 - Executed test case name:searchTest Execution Results : [TestResult name=searchTest status=SUCCESS method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@1786dec2] output={null}]
+2022-03-10 13:38:16 INFO  TestBase:77 - Stop Testcase
+2022-03-10 13:38:16 INFO  TestBase:65 - Closing Browser
+2022-03-10 13:38:19 INFO  TestBase:67 - Browser Closed
+2022-03-10 13:39:21 INFO  TestBase:28 - Initiate Browser
+2022-03-10 13:39:30 INFO  PageBase:66 -  WebsiteURL:https://www.virtusa.com/
+2022-03-10 13:39:30 INFO  PageBase:67 -  Chrome Type :chrome
+2022-03-10 13:39:30 INFO  PageBase:68 -  Os Type :windows
+2022-03-10 13:39:30 INFO  TestBase:35 - Browser Initiated
+2022-03-10 13:39:30 INFO  TestBase:57 - Test name: searchTest
+2022-03-10 13:39:32 INFO  TestBase:73 - Executed test case name:searchTest Execution Results : [TestResult name=searchTest status=FAILURE method=HomePageTest.searchTest()[pri:1, instance:virtusa.guest.HomePageTest@1786dec2] output={null}]
+2022-03-10 13:39:32 INFO  TestBase:77 - Stop Testcase
+2022-03-10 13:39:32 INFO  TestBase:65 - Closing Browser
+2022-03-10 13:39:35 INFO  TestBase:67 - Browser Closed
